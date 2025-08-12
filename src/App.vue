@@ -7,7 +7,7 @@ const formValues = {
 
 // handler form submit event
 function doLogin(data) {
-  console.log(data);
+  alert(JSON.stringify(data, null, 2));
 }
 </script>
 <template>
