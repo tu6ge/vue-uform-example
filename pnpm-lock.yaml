@@ -9,8 +9,8 @@ dependencies:
     specifier: ^3.5.18
     version: 3.5.18(typescript@5.8.3)
   vue-uform:
-    specifier: ^0.2.0
-    version: 0.2.0(vue@3.5.18)
+    specifier: ^0.2.1
+    version: 0.2.1(vue@3.5.18)
 
 devDependencies:
   '@tsconfig/node22':
@@ -23,8 +23,8 @@ devDependencies:
     specifier: ^6.0.1
     version: 6.0.1(vite@7.1.1)(vue@3.5.18)
   '@vue-uform/vite-plugin':
-    specifier: ^0.2.0
-    version: 0.2.0(vite@7.1.1)(vue@3.5.18)
+    specifier: ^0.2.1
+    version: 0.2.1(vite@7.1.1)(vue@3.5.18)
   '@vue/tsconfig':
     specifier: ^0.7.0
     version: 0.7.0(typescript@5.8.3)(vue@3.5.18)
@@ -828,8 +828,8 @@ packages:
       vscode-uri: 3.1.0
     dev: true
 
-  /@vue-uform/vite-plugin@0.2.0(vite@7.1.1)(vue@3.5.18):
-    resolution: {integrity: sha512-VjyUGB3ZhViH1/8RgC+m2hujSrESvqNHCLHUAi1loG4+bZ9kGnqAuEeyA6kOfq6VZYg9GyKeQtKlnVN8OXoJ9A==}
+  /@vue-uform/vite-plugin@0.2.1(vite@7.1.1)(vue@3.5.18):
+    resolution: {integrity: sha512-CW3HvrAaxYa6CzLnAq0WeGIVjSF3nCWe8Yqrbivr67zn7PBlWUCQqoDyVPlYGMCF9+E0agyldtPhntXgQHNclg==}
     peerDependencies:
       vite: ^7.0.6
     dependencies:
@@ -1761,8 +1761,8 @@ packages:
       typescript: 5.8.3
     dev: true
 
-  /vue-uform@0.2.0(vue@3.5.18):
-    resolution: {integrity: sha512-I9FRWm5PlJGDV88KPR9DDPM6rPfleeNI0tumGnG1266GUETw/IaJlcSf11kgDwspterl7MjhfPpwydWyv8mwcw==}
+  /vue-uform@0.2.1(vue@3.5.18):
+    resolution: {integrity: sha512-7AyzbgoCxpBuSvkeK8dP9PKw4X4OCYM6Ol6pZerSd7wrmylKP+2YkCtSZ9+9sUV6e3N5Dg//LaVIASygNy4g5w==}
     peerDependencies:
       vue: ^3.5.18
     dependencies:
